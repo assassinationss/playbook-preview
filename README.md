@@ -53,6 +53,11 @@ Walk away (or investigate hard) when you see any of these:
 
 The open-source companion repo [awesome-china-sourcing](https://github.com/assassinationss/awesome-china-sourcing) has 5 more free templates (T01-T09 selected), the VERIFY checklist, the Incoterms cheat sheet, and 3 deep guides. ⭐ Star it.
 
+**Free interactive tools** (same hub, no signup):
+- [Black Friday 2026 stock deadline calculator](https://assassinationss.github.io/black-friday-deadline.html) — which freight modes still make it, worked backwards from Nov 27
+- [CNY 2027 order deadline calculator](https://assassinationss.github.io/cny-deadline.html) — CNY is 11 days earlier in 2027; the mistake that wipes out Q1 restocks
+- [Supplier red-flag checker](https://assassinationss.github.io/checker.html) — 12 questions, 3 dealbreakers, instant verdict
+
 ---
 
 *Sol Research Desk · 2026 — [profile](https://github.com/assassinationss) · 21+ merged PRs across the transit, docs and localization ecosystem*
